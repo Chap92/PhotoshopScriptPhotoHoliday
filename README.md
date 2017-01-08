@@ -1,7 +1,7 @@
 # Photo Holiday Photoshop Script
 To run this script:
 
-1) Simply paste the script in any folder on your system.
+1) Paste the script in any folder on your system.
 
 2) Open Photoshop and go to File -> Scripts -> Browse
 
